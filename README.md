@@ -5,3 +5,7 @@ The R code file for the algorithm developed in the research paper "Optimal calib
 achievement tests"
 
 The research paper is available on the following link
+
+
+# Acknowledgement
+This work was supported by the Swedish Research Council (Vetenskapsrådet) Grant 2019-02706.
