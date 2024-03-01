@@ -4,7 +4,7 @@
 The R code file for the algorithm developed in the research paper "Optimal calibration of items for multidimensional
 achievement tests"
 
-<img src="Exp1.png" width="750%" />
+<img src="Exp1.png" width="50%" />
 
 The research paper is available on the following link
 
