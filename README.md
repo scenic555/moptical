@@ -6,7 +6,7 @@ achievement tests"
 
 <img src="Exp1.png" width="40%" />
 
-The research paper is available on the following link: \link{https://onlinelibrary.wiley.com/doi/10.1111/jedm.12386}
+The research paper is available on the following link: https://onlinelibrary.wiley.com/doi/10.1111/jedm.12386
 
 
 # Acknowledgement
